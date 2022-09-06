@@ -1,0 +1,15 @@
+0
+476327841
+돼지대학교 합정점
+02-338-8292
+서울 마포구 합정동독막로 15
+http://www.porkuniv.com
+삼겹살
+""
+0
+"{'periodList': [{'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '15:00 ~ 24:00', 'dayOfWeek': '월~금'}, {'timeName': '영업시간', 'timeSE': '12:00 ~ 24:00', 'dayOfWeek': '토,일'}]}], 'realtime': {'holiday': 'N', 'breaktime': 'N', 'open': 'N', 'moreOpenOffInfoExists': 'Y', 'datetime': '20220830003303', 'secondsUtilOpen': 52016, 'currentPeriod': {'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '15:00 ~ 24:00', 'dayOfWeek': '월~금'}]}, 'closedToday': 'N'}, 'openhourDisplayText': '오후10시까지 입장 가능 합니다'}"
+Y
+N
+N
+"['삼겹살무한리필', '제로페이']"
+"{'menucount': 2, 'menuList': [{'price': '15,900', 'recommend': False, 'menu': '삼겹살 무한리필 (1인)', 'desc': '허브삼겹, 허브목살, 훈제양념목살, 대패목살, 냉동삼겹, 된장찌개, 떡볶이 무한리필'}, {'price': '6,900', 'recommend': False, 'menu': '4세~7세 (1인)', 'desc': '허브삼겹, 허브목살, 훈제양념목살, 냉동삼겹, 대패목살, 된장찌개, 떡볶이 무한리필'}], 'productyn': 'N', 'menuboardphotocount': 0, 'timeexp': '2022.06.27.'}"

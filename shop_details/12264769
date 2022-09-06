@@ -1,0 +1,15 @@
+0
+12264769
+신김치생삼겹살
+""
+서울 마포구 합정동양화로 50
+""
+삼겹살
+3.4782608695652173
+23
+"{'periodList': [{'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '17:00 ~ 00:30', 'dayOfWeek': '매일'}]}], 'realtime': {'holiday': 'N', 'breaktime': 'N', 'open': 'N', 'moreOpenOffInfoExists': 'N', 'datetime': '20220830003302', 'secondsUtilOpen': 59217, 'currentPeriod': {'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '17:00 ~ 00:30', 'dayOfWeek': '매일'}]}, 'closedToday': 'N'}}"
+""
+""
+""
+['제로페이']
+"{'menucount': 5, 'menuList': [{'price': '14,000', 'recommend': False, 'menu': '삼겹살 (180g)'}, {'price': '14,000', 'recommend': False, 'menu': '목살 (180g)'}, {'price': '16,000', 'recommend': False, 'menu': '항정살 (180g)'}, {'price': '5,000', 'recommend': False, 'menu': '물냉면'}, {'price': '5,000', 'recommend': False, 'menu': '계란탕'}], 'productyn': 'N', 'menuboardphotocount': 0}"

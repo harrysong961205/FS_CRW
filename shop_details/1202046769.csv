@@ -1,0 +1,15 @@
+0
+1202046769
+돼지상회 홍대직영점
+02-322-8891
+서울 마포구 서교동홍익로5안길 28
+""
+삼겹살
+2.595744680851064
+47
+"{'periodList': [{'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '11:30 ~ 24:00', 'dayOfWeek': '매일'}]}], 'realtime': {'holiday': 'N', 'breaktime': 'N', 'open': 'N', 'moreOpenOffInfoExists': 'N', 'datetime': '20220830003258', 'secondsUtilOpen': 39421, 'currentPeriod': {'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '11:30 ~ 24:00', 'dayOfWeek': '매일'}]}, 'closedToday': 'N'}}"
+""
+""
+""
+"['고기뷔페', '삼겹살무한리필', '치킨무한리필', '제로페이']"
+"{'menucount': 3, 'menuList': [{'price': '13,900', 'recommend': False, 'menu': 'A 돼지모듬 무한리필 (1인)', 'desc': '칼집삼겹살+우삼겹+목살+항정살+가브리살+대패삼겹살+돼지껍데기+된장찌개+모듬야채쌈'}, {'price': '15,500', 'recommend': False, 'menu': 'B 돼지모듬+간장순살치킨 무한리필 (1인)', 'desc': '칼집삼겹살+간장순살치킨+우삼겹+목살+항정살+가브리살+대패삼겹살+돼지껍데기+된장찌개+모듬야채쌈'}, {'price': '17,900', 'recommend': False, 'menu': 'Full 풀-코스 무한리필 (1인)', 'desc': '칼집삼겹살+간장순살치킨+우삼겹+목살+항정살+가브리살+대패삼겹살+돼지껍데기+된장찌개+모듬야채쌈+음료수무제한+공기밥무제한+함흥냉면무제한'}], 'productyn': 'N', 'menuboardphotocount': 0}"

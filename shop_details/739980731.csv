@@ -1,0 +1,15 @@
+0
+739980731
+상수김치삼겹살
+""
+서울 마포구 상수동독막로 76
+""
+삼겹살
+4.25
+24
+"{'periodList': [{'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '15:00 ~ 01:00', 'dayOfWeek': '매일'}]}], 'realtime': {'holiday': 'N', 'breaktime': 'N', 'open': 'Y', 'moreOpenOffInfoExists': 'N', 'datetime': '20220830003300', 'currentPeriod': {'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '15:00 ~ 01:00', 'dayOfWeek': '매일'}]}, 'closedToday': 'N'}}"
+""
+""
+""
+"['노포', '제로페이']"
+"{'menucount': 5, 'menuList': [{'price': '12,000', 'recommend': False, 'menu': '암퇘지 삼겹 (180g)'}, {'price': '14,000', 'recommend': False, 'menu': '차돌박이 (160g)'}, {'price': '13,000', 'recommend': False, 'menu': '불쭈꾸미 (2인분이상)'}, {'price': '15,000', 'recommend': False, 'menu': '김치전골 (소)'}, {'price': '7,000', 'recommend': False, 'menu': '계란말이'}], 'productyn': 'N', 'menuboardphotourlList': ['http://postfiles6.naver.net/MjAyMDAxMTlfMTM5/MDAxNTc5MzgyMTA3Mzgw.jalCPPRBgouYUSGECi__omP-AXrDwz3HMFOPDfTENmog.4Zba_-yjy2wpCv8A_PiAiuK_MgWK-dFUXshUt4CISb4g.JPEG.dlarl1010/1579382106123.jpg?type=w966', 'http://postfiles7.naver.net/MjAyMDAxMTlfMTQw/MDAxNTc5MzgyMTA4OTEz.gmo421RK8FN9CSHNFwNVgTPqAC0AbygIIpMQIarGv3kg.YGLIuO8lmu7ENncnzaY8BeDfEliN18pv81-N3_B7AFYg.JPEG.dlarl1010/1579382107656.jpg?type=w966'], 'menuboardphotocount': 9}"

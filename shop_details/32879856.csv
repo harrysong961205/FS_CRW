@@ -1,0 +1,15 @@
+0
+32879856
+꿀돼지집
+""
+서울 마포구 연남동동교로 236
+""
+삼겹살
+4.711111111111111
+45
+"{'periodList': [{'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '16:00 ~ 24:00', 'dayOfWeek': '매일'}]}], 'realtime': {'holiday': 'N', 'breaktime': 'N', 'open': 'N', 'moreOpenOffInfoExists': 'N', 'datetime': '20220830003303', 'secondsUtilOpen': 55616, 'currentPeriod': {'periodName': '영업기간', 'timeList': [{'timeName': '영업시간', 'timeSE': '16:00 ~ 24:00', 'dayOfWeek': '매일'}]}, 'closedToday': 'N'}}"
+""
+""
+""
+"['안심식당', '정육식당', '카카오페이', '제로페이']"
+"{'menucount': 6, 'menuList': [{'price': '12,000', 'recommend': False, 'menu': '꿀돼지급랭삼겹 (170g)'}, {'price': '13,000', 'recommend': False, 'menu': '제주흑돼지꼬들살 (170g)'}, {'price': '14,000', 'recommend': False, 'menu': '생오겹살 (170g)'}, {'price': '5,000', 'recommend': False, 'menu': '우렁된장찌개'}, {'price': '5,000', 'recommend': False, 'menu': '순두부찌개'}, {'price': '2,000', 'recommend': False, 'menu': '볶음밥'}], 'productyn': 'N', 'menuboardphotocount': 0, 'timeexp': '2022.03.23.'}"
